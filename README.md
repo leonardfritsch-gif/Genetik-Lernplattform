@@ -1,1 +1,1 @@
-# Genetik-Lernplattform
+# Genetik-Lernplattform Leonard Fritsch
